@@ -1,0 +1,13 @@
+.contact_section h1 {
+  margin-top: 14px;
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.contact_section p {
+  margin-top: 4px;
+  font-size: 16px;
+  font-weight: 400;
+
+  align-items: center;
+}
